@@ -1,0 +1,23 @@
+{
+  "name": "typinggame",
+  "version": "1.0.0",
+  "description": "Typing Game",
+  "main": "index.js",
+  "homepage": "https://krishnanth.github.io/JS-TypingGame",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krishnanath/JS-TypingGame.git"
+  },
+  "author": "krishnanth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krishnanath/JS-TypingGame/issues"
+  },
+  "homepage": "https://github.com/krishnanath/JS-TypingGame#readme",
+  "dependencies": {
+    "gh-pages": "^1.2.0"
+  }
+}
